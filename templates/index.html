@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Text Converter</title>
+    <link rel="stylesheet" href="/static/index.css">
+    <script>
+        function clearText() {
+            document.querySelector('textarea[name="text"]').value = '';
+        }
+    </script>
+    
+</head>
+<body>
+    <header>
+        <h1 class="title">ENCRYPTIA</h1>
+        <div class="h1-item1"><a href="{{url_for('home')}}">Home</a></div>
+        <div class="h1-item2"><a href="{{url_for('about')}}">About</a></div>
+        <div class="h1-item3">Login</div>
+    </header>
+    
+    <h2 class="h2-text">Unlock the power of encryption on our website! </h2>
+    <h3 class="h3-text">Safeguard your secrets and shield your messages from prying eyes.<br> 
+        Enter your text, select from a range of cutting-edge encryption methods,<br> and witness the magic as your information is transformed into an impregnable code. </h3>
+    
+    <form method="POST" action="{{ url_for('index') }}">
+        <div class="center">
+            <textarea rows="20" cols="70" name="text" placeholder="Enter your text..."></textarea>    
+        </div>
+        <div class="btn-container">
+            <button type="submit"  name="aes">AES</button>
+            <button type="submit"  name="rsa">RSA</button>
+            <button type="submit"  name="blowfish"> BLOWFISH</button>
+            <input type="button" value="Clear" onclick="clearText()">
+        </div>              
+        
+    </form>
+
+    {% if ciphertext %}
+        <h2 class="en_center">Eccrypted Text:</h2>
+        <div class="box">
+            <p>{{ ciphertext }}</p>
+        </div>
+        
+       
+    {% endif %}
+   
+</body>
+</html>

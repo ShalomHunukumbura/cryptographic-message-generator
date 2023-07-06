@@ -1,0 +1,288 @@
+.desktop-1-child {
+  position: absolute;
+  top: 37px;
+  left: 150px;
+  background-color: #d9d9d9;
+  width: 154px;
+  height: 41px;
+}
+.photo-1510511459019-5dda7724fd-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1536px;
+  height: 1024px;
+  object-fit: cover;
+}
+.navigation,
+.rectangleoverlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 1014px;
+}
+.navigation {
+  background: linear-gradient(180deg, #011b12 46.88%, rgba(3, 41, 27, 0));
+  height: 118px;
+}
+.p,
+.unlock-the-power-of-encryption {
+  margin: 0;
+}
+.p {
+  font-size: var(--font-size-17xl);
+  color: var(--color-white);
+}
+.safeguard-your-secrets-and-shi {
+  margin: 0;
+  font-family: var(--font-kalam);
+}
+.unlock-the-power-container {
+  position: absolute;
+  top: 310px;
+  left: 150px;
+  display: inline-block;
+  width: 869px;
+  height: 372px;
+  -webkit-text-stroke: 1px rgba(0, 0, 0, 0.2);
+  font-size: 40px;
+  color: var(--color-paleturquoise);
+  font-family: var(--font-jejugothic);
+}
+.about,
+.home {
+  position: absolute;
+  top: 13px;
+  left: 0;
+  font-weight: 600;
+}
+.about {
+  top: 14px;
+  left: 71px;
+}
+.button-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--f1717);
+  width: 82px;
+  height: 44px;
+}
+.login {
+  position: absolute;
+  top: 12px;
+  left: 20px;
+  font-weight: 600;
+  flex: 1;
+  
+  color: #AED9CA;
+  font-family: Inter;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;    
+
+}
+.button,
+.home-parent {
+  position: absolute;
+  top: 0;
+  left: 144px;
+  right: 144px;
+  width: 82px;
+  height: 44px;
+}
+.home-parent {
+  top: 45px;
+  left: 1064px;
+  width: 226px;
+  font-size: var(--font-size-base);
+}
+.footer,
+.group-child {
+  position: absolute;
+  left: 0;
+}
+.footer {
+  top: 875px;
+  background: linear-gradient(
+    180deg,
+    rgba(1, 19, 12, 0) 28.13%,
+    #011911 80.73%
+  );
+  width: 100%;
+  height: 149px;
+}
+.group-child {
+  top: 246px;
+  border-radius: 50%;
+  background-color: var(--color-powderblue);
+  width: 79px;
+  height: 79px;
+}
+.lightning-alt-light-child {
+  position: absolute;
+  height: 11.06%;
+  width: 4.42%;
+  top: 87.12%;
+  right: 93.07%;
+  bottom: 1.82%;
+  left: 2.52%;
+  border-radius: 0.25px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.popular-encryption-algorithms-container {
+  position: absolute;
+  height: 4.19%;
+  width: 12.15%;
+  top: 83.23%;
+  left: 12.31%;
+  font-weight: 500;
+  display: inline-block;
+}
+.group-item,
+.lightning-alt-light {
+  position: absolute;
+  top: 0;
+  left: 10px;
+  width: 650px;
+  height: 310px;
+}
+.group-item {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: #134533;
+}
+.try-it-out {
+  position: absolute;
+  top: 30%;
+  left: 5.38%;
+  font-weight: 800;
+}
+.chevron-right-square-icon,
+.rectangle-parent {
+  position: absolute;
+  height: 100%;
+  width: 98.44%;
+  top: 0;
+  right: 1.56%;
+  bottom: 0;
+  left: 0;
+}
+.chevron-right-square-icon {
+  width: 18.69%;
+  right: 0;
+  left: 81.31%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-parent {
+  position: absolute;
+  height: 18.46%;
+  width: 48.64%;
+  top: 78.77%;
+  right: 11.06%;
+  bottom: 2.77%;
+  left: 40.3%;
+  font-size: 20px;
+}
+.ellipse-parent {
+  position: absolute;
+  top: 454px;
+  left: 150px;
+  width: 660px;
+  height: 325px;
+  font-size: 13px;
+}
+.d-internet-secuirty-badge-1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 130px;
+  height: 128px;
+  object-fit: cover;
+}
+.rsa-algorithm {
+  position: absolute;
+  top: 16px;
+  left: 140px;
+  font-weight: 600;
+}
+.d-internet-secuirty-badge-1-group,
+.d-internet-secuirty-badge-1-parent {
+  position: absolute;
+  top: 875px;
+  left: 191px;
+  width: 212px;
+  height: 128px;
+  color: var(--color-white);
+}
+.d-internet-secuirty-badge-1-group {
+  left: 930px;
+  width: 219px;
+}
+.d-internet-secuirty-badge-1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 128px;
+  height: 128px;
+  object-fit: cover;
+}
+.aes-algorithm {
+  position: absolute;
+  top: 12px;
+  left: 144px;
+  font-weight: 600;
+}
+.d-internet-secuirty-badge-1-container {
+  position: absolute;
+  top: 875px;
+  left: 540px;
+  width: 216px;
+  height: 128px;
+  color: var(--color-white);
+}
+.encryptia {
+  position: absolute;
+  top: 45px;
+  left: 173px;
+  font-size: 24px;
+  font-weight: 800;
+}
+.desktop-1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-powderblue);
+  font-family: var(--font-inter);
+}
+
+.a-try-it-out{
+  text-decoration: none;
+  color: #d9d9d9;
+}
+.a-about{
+  flex: 1;
+    margin-left: 800px; 
+    margin-top: 30px; 
+    color: #AED9CA;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal; 
+}

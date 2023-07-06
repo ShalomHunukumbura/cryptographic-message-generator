@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-kalam: Kalam;
+  --font-jejugothic: JejuGothic;
+
+  /* font sizes */
+  --font-size-mini: 15px;
+  --font-size-base: 16px;
+  --font-size-17xl: 36px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-powderblue: #aed9ca;
+  --f1717: #0b054f;
+  --color-paleturquoise: #b7ffe5;
+
+  /* border radiuses */
+  --br-3xs: 10px;
+}
