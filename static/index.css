@@ -63,12 +63,24 @@ header{
     line-height: normal;  
 }
 .h2-text{
-    color: #e5e7eb;
+  
     font-weight: 700;
+
+    color: #AED9CA;
+    font-family: Inter;
+    font-size: 30px;
+    font-style: normal;
+    
+    line-height: normal; 
 }
 .h3-text{
-    color: #e5e7eb;
+    
     font-weight: 600;
+
+    color: #AED9CA;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
 }
 .center{
     margin-top: 50px;
@@ -78,7 +90,7 @@ header{
     height: 50vh;
 }
 textarea{
-    background-color: aquamarine;
+    background-color:#47edc0;
 }
 
 .btn-container {
@@ -94,8 +106,15 @@ button {
 
 .en_center{
     text-align: center;
-    color: #e5e7eb;
+    
     font-weight: 600;
+
+    color: #AED9CA;
+    font-family: Inter;
+    font-size: 30px;
+    font-style: normal;
+    
+    line-height: normal; 
 }
 .box {
     border: 1px solid #000;
@@ -129,4 +148,14 @@ footer{
 a{
     text-decoration: none;
     color: #AED9CA;
+}
+
+.btn-en{
+    background-color: #375c4f;
+    color: #AED9CA;
+    padding: 5px;
+    font-weight: bolder;
+    text-align: center;
+    margin-right: 30px;
+    border-radius: 8px;
 }

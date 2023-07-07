@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-itim: Itim;
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+
+  /* Colors */
+  --color-mediumseagreen: #31ce83;
+  --color-mediumaquamarine: #31cea9;
+  --color-white: #fff;
+
+  /* border radiuses */
+  --br-3xs: 10px;
+}
