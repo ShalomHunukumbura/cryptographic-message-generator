@@ -1,5 +1,5 @@
 #libraries for AES encryptio
-from Crypto.Cipher import AES
+from  Cryptodome.Cipher import AES
 from Crypto.Util.Padding import pad
 #libraries for RSA encryption
 from cryptography.hazmat.primitives.asymmetric import rsa
