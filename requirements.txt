@@ -1,2 +1,5 @@
 Flask
 Gunicorn
+Cryptodome
+cryptography
+Crypto
