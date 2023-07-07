@@ -6,6 +6,9 @@
   width: 1440px;
   height: 143px;
 }
+.encryptia{
+  font-size: 24px;
+}
 .encryptia,
 .home {
   position: absolute;
@@ -14,11 +17,17 @@
   display: inline-block;
   width: 302px;
   height: 64px;
+  color: #AED9CA;
+    font-family: Inter;
+    
+    font-style: normal;
+    
+    line-height: normal; 
 }
 .home {
   top: 26px;
   left: 1129px;
-  font-size: 32px;
+  font-size: 20px;
   width: 254px;
   height: 74px;
 }
@@ -144,4 +153,9 @@
   font-size: var(--font-size-5xl);
   color: var(--color-mediumseagreen);
   font-family: var(--font-itim);
+}
+
+a{
+  text-decoration: none;
+  color: #AED9CA;
 }
